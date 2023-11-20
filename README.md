@@ -60,7 +60,7 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 
   - **The Twitter Web Client and TweetDeck** are rarely used sources. While, the most source used to generate the tweets is **Twitter for iPhone**.
 
-  ## Refernces
+  ## References
 
   - [Wrangling Twitter API Data Project File](https://github.com/hayasalman/Wrangling-Dataset/blob/main/Wragling_Act_.ipynb)
 
