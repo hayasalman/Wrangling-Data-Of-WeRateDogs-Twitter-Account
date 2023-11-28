@@ -21,6 +21,44 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
  
   - [Twitter Archive Enhanced CSV File](https://github.com/hayasalman/Wrangling-Dataset/blob/main/Datasets/twitter-archive-enhanced.csv)
  
+  ## Installation
+
+We need to set up our local environment to programming using python , here :
+
+- Install and navigate through the Anaconda [Anaconda Installer](https://www.anaconda.com/download/) .
+
+- Setup and manage the environments.
+
+  ```conda create -n env_name```
+
+   To access this environment through the command line : ```conda activate env_name```
+
+   To check for the Python packages : ```conda list```
+
+- Download Python packages in Anaconda Terminal (we can use pip or conda interchangeably).
+
+  ```pip install pandas```
+
+   ```pip install numpy```
+
+   ```pip install matplotlib```
+
+   ```pip install seaborn```
+
+   ```pip install requests```
+
+   ```pip install tweepy```
+
+  **OR**
+
+  Install multiple packages at the same time. For example, the command below will install all three packages simultaneously.
+
+  ```conda install pandas numpy matplotlib requests tweepy```
+
+- Install Jupyter Notebooks.
+
+  ```conda install jupyter notebook```
+ 
   ## Coding
 
   -  Python Integrated Development Environment (IDE) : Jupyter Notebooks.
@@ -62,7 +100,7 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 
   ## References
 
-  - [Wrangling Twitter API Data Project File](https://github.com/hayasalman/Wrangling-Dataset/blob/main/Wragling_Act_.ipynb)
+  - [Wrangling Twitter API Data IPYNB File](https://github.com/hayasalman/Wrangling-Dataset/blob/main/Wragling_Act_.ipynb)
 
   
 
